@@ -1,6 +1,4 @@
 baseURL: '/'
 languageCode: 'en-au'
 title: 'monday_j dot blog'
-theme: 'neopost'
-params:
-    theme: "dark-blue"
+theme: 'ananke'
