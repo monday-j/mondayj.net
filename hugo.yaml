@@ -4,4 +4,3 @@ title: 'monday_j dot blog'
 theme: 'neopost'
 params:
     theme: "dark-blue"
-    contentTypeName: "blog"
