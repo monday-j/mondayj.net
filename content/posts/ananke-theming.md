@@ -26,7 +26,7 @@ I want a very aggressive amount of padding on each side of the viewport when in 
 
 Here's a quick sketch of what I'm thinking:
 
-![A sketch showing a website layout](/images/site mockup.png)
+![A sketch showing a website layout](/images/site-mockup.png)
 *You know how I said I'm not a graphic designer? Extend that sentiment to artist, too.*
 
 As you can see, I want a big purple logo up top, a greyish background, slightly lighter highlighting and then use a variety of dark greys for the headings and body text.
